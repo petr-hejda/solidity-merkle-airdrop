@@ -16,9 +16,9 @@
 		"url": "https://github.com/petr-hejda/solidity-merkle-airdrop.git"
 	},
 	"devDependencies": {
-		"@nomiclabs/hardhat-truffle5": "^2.0.6",
-		"@openzeppelin/contracts": "^4.6.0",
-		"hardhat": "^2.9.5",
-		"merkletreejs": "^0.2.31"
+		"@nomiclabs/hardhat-truffle5": "^2.0.7",
+		"@openzeppelin/contracts": "^4.8.2",
+		"hardhat": "^2.13.0",
+		"merkletreejs": "^0.3.9"
 	}
 }
